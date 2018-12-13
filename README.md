@@ -1,6 +1,7 @@
 # Play (Back End)
 
-Visit the deployed API here: https://play-be.herokuapp.com/
+Visit the deployed API here: https://play-be.herokuapp.com/api/v1/favorites
+(Base URL for api calls is https://play-be.herokuapp.com )
 
 ## Learning Objectives
   - Strengthen team communication through paired programming
